@@ -34,12 +34,25 @@ Se utiliza Git para el control de versiones con la siguiente estrategia:
 # Wireframes/Mockups de la app:
 Pantalla principal (Home): 
   - Título de la app:CodeGlossary
-  - Botón de empezar: para ver los conceptos
+  - Botón de empezar: para poder acceder al menú
+![image](https://github.com/user-attachments/assets/6d19a337-897f-4c16-a4e6-baacf96c4f39)
+
+Pantalla de Menú:
+  - Botón de conceptos: Para poder acceder a los conceptos alojados en la aplicación.
+  - Botón de examen: Para poder acceder a los diversos examenes que se tienen previstos.
+![image](https://github.com/user-attachments/assets/0e3a0a59-7765-4cc4-8d4b-b1a8b1d32cab)
+Otra manera de ponder navegar en las diversas pestañas de la aplicación:
+![image](https://github.com/user-attachments/assets/a8083f87-e269-425c-98ab-a35eb4f9e882)
+
 Pantalla de conceptos:
   - Encabezado: Nombre del concepto
   - Descripción: Explicacion detallada sobre el concepto
+![image](https://github.com/user-attachments/assets/b273a8e0-fb21-4fb1-a3ad-35a798ddc105)
+
 Pantalla de Examen:
   - Quiz sobre los conceptos vistos previamente
+![image](https://github.com/user-attachments/assets/97111ad2-8593-4b59-b2f1-cda0e96523af)
+Se le incorporan funcionalidades proximamente.
 
 # Diagrama de Flujo de la aplicación:
 ![image](https://github.com/user-attachments/assets/83969e58-1902-46ce-871f-3a3380698005)
