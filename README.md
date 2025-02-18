@@ -42,6 +42,7 @@ Pantalla de Examen:
   - Quiz sobre los conceptos vistos previamente
 
 # Diagrama de Flujo de la aplicación:
+![image](https://github.com/user-attachments/assets/83969e58-1902-46ce-871f-3a3380698005)
 
 # Ramas para cada integrante del equipo:
 Se cuenta con las siguientes ramas:
